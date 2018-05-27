@@ -1,4 +1,4 @@
-# Project 3 Crypto Blog
+# Group Collaboration: Crypto Blog
 
 ## Brainstorm/Initial Thoughts
 
